@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Video Files (Datasets & Outputs)
+*.mp4
+*.avi
+*.mkv
+*.mov
+sample_videos/
+
+# Personal / Document Files
+Awais_Shah_Research_CV_R.docx
+*.docx
+
+# OS / IDE artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
